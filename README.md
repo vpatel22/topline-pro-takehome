@@ -25,3 +25,4 @@ This web app is very raw and only covers the barebone requirements asked of us i
 4. Add a lot of styling to make everything look a lot nicer
    - Card components for each image after a search
    - Better formatting for the user details and image tags on the image details page
+5. Allow the "Return to Home" button to maintain where the user was before they navigated to the specific image's details page.
