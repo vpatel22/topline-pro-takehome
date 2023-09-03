@@ -5,3 +5,5 @@ export const PIXABAY_API_KEY = "39204582-795e0a0f587b4d7d9267cce65";
 
 export const PIXABAY_API_URL =
   "https://pixabay.com/api/?key=" + PIXABAY_API_KEY;
+
+export const DEFAULT_IMAGES_PER_PAGE = 50;
