@@ -33,3 +33,11 @@
     transform: rotate(360deg);
   }
 }
+
+.search-results {
+  padding: 5px;
+  margin: 5px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
