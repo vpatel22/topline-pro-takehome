@@ -6,9 +6,9 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        <header className="App-header">
+        <h1 className="App-header">
           <p>Welcome to Pixabay Image Search. Search for images below!</p>
-        </header>
+        </h1>
         <div>
           <Routes>
             <Route path="/" element={<HomePage />} />
